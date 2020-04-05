@@ -1,7 +1,7 @@
 All on P9 side of beaglebone
 Connect SCL pin to pin 19 of beaglebone
 Connect SDA pin to pin 20 of beaglebone
-Connect 5v to pin pin 5 or 6 of beaglebone
+Connect 5v to pin 5 or 6 of beaglebone
 Connect 3.3v to pin 3 of beaglebone
 Connect cs to pin 3 of beaglebone
 Connect vs to pin 3 of beaglebone
