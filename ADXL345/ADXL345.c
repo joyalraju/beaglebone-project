@@ -73,5 +73,6 @@ void main()
 		printf(" Z-Axis : %d \n", zAccl);
 	}
 	sleep(1);
+		sleep(1);
 }
 }
